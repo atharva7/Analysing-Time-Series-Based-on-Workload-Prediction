@@ -5,4 +5,5 @@ We analyze three different traces, Google, Alibaba and Azure. ARIMA and LSTM wer
 # Team Members
 
 1. Atharva Joglekar
-2. Pranav Pandey
+2. Abhilash Dorle
+3. Pranav Pandey
